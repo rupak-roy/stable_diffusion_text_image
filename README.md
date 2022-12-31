@@ -15,3 +15,10 @@ Legacy Stable-diffusion VQGAN+CLIP: https://medium.com/@bobrupakroy/machine-capa
 ![into](https://miro.medium.com/max/828/1*Y6BKBRWDLnXzTN9r5vpAMQ.webp)
 
 ![into](https://miro.medium.com/max/828/1*v_PMleg62jbXIpX5zri5OA.webp)
+
+Legacy Stable-diffusion VQGAN+CLIP:
+![into](https://miro.medium.com/max/828/0*FnxNdKcKYbSLNNRu.webp)
+
+![into](https://miro.medium.com/max/828/0*vUzfZPJqxyGunvw9.webp)
+
+
