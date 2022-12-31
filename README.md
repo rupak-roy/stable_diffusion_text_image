@@ -3,7 +3,7 @@
 Stable diffusion text to image cuda and jax tpu implementation 
 
 
-![into](https://github.com/rupak-roy/stable_diffusion_text_image/blob/main/__results___51_1.png)
+![into](https://miro.medium.com/max/828/1*W6vcOHZb359axNOhBWdkNw.webp)
 
 ![into](https://github.com/rupak-roy/stable_diffusion_text_image/blob/main/__results___51_1%20(1).png)
 
